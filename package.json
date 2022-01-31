@@ -1,0 +1,26 @@
+{
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "description": "simple discord-rpc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3aTo4Ka/discord-rpc.git"
+  },
+  "keywords": [
+    "Discord",
+    "RPC"
+  ],
+  "author": "3aTo4Ka)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3aTo4Ka/discord-rpc/issues"
+  },
+  "homepage": "http://haticocoin.xyz/",
+  "dependencies": {
+    "discord-rpc": "^3.2.0"
+  }
+}
